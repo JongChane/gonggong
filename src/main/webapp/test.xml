@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<response>
+	<header>
+		<resultMsg>NORMAL_CODE</resultMsg>
+		<resultCode>00</resultCode>
+	</header>
+	<total>541</total>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>MONO12023000017829</value>
+		</item>
+		<item>
+			<name>자료명</name>
+			<value>홍길동, 조선을 박차고 새 나라를 만들다 : 홍길동전 / 생생고전 ;</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>김기정 글 </value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>천개의바람</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>홍길동, 조선을 박차고 새 나라를 만들다 : 홍길동전 / 생생고전 ;</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>ISBN</name>
+			<value>9791165734084</value>
+		</item>
+		<item>
+			<name>ISSN</name>
+			<value>
+			</value>
+		</item>
+		<item>
+			<name>DDC</name>
+			<value>811.3</value>
+		</item>
+		<item>
+			<name>CIS/UNSA</name>
+			<value>811.3</value>
+		</item>
+		<item>
+			<name>청구기호</name>
+			<value>C3 811.3 ㅎ242</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value>
+			</value>
+		</item>
+		<item>
+			<name>발행년도</name>
+			<value>2023</value>
+		</item>
+		<item>
+			<name>별치기호</name>
+			<value>C3</value>
+		</item>
+		<item>
+			<name>원문DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>음성지원유무</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>[본관] 어린이방(105호), [부산관] 어린이자료실(1층)</value>
+		</item>
+	</recode>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>KINX2022094906</value>
+		</item>
+		<item>
+			<name>기사명</name>
+			<value>유명한 도둑 있었다는 건 당시 나라가 편치 않았다는 증거 : 조선의 3대 도적-홍길동·임꺽정·장길산 /
+				월간중앙. 월간중앙. 이윤석의 조선 후기史 팩트추적 ;</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>이윤석</value>
+		</item>
+		<item>
+			<name>수록지명</name>
+			<value>월간중앙. 48권 6호 통권559호 (2022년 6월)</value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>중앙일보플러스</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>유명한 도둑 있었다는 건 당시 나라가 편치 않았다는 증거 : 조선의 3대 도적-홍길동·임꺽정·장길산 / 홍길동
+				임꺽정 장길산 이익 성호사설 소설주인공 한국어 이윤석의 조선 후기史 팩트추적 ;</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value></value>
+		</item>
+		<item>
+			<name>발행년도</name>
+			<value>2022</value>
+		</item>
+		<item>
+			<name>원본DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>[본관] 정기간행물실(524호)</value>
+		</item>
+	</recode>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>KINX2022227145</value>
+		</item>
+		<item>
+			<name>기사명</name>
+			<value>『洪吉童傳』의 환상성 = The fantastic of Honggildongjeon / 語文硏究. 어문연구.
+			</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>朴允子</value>
+		</item>
+		<item>
+			<name>수록지명</name>
+			<value>語文硏究. 50권 3호 통권195호 (2022년 가을)</value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>韓國語文敎育硏究會</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>『洪吉童傳』의 환상성 = The fantastic of Honggildongjeon / 홍길동전 환상 환상성
+				놀이 역동성 유희성 윤리성 모순 청년영웅 Honggildongjeon Fantasy Fantastic Dynamism
+				Playfulness Ethics Contradiction Hero Heroic novel 한국어 한국어와문학
+			</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>발행년도</name>
+			<value>2022</value>
+		</item>
+		<item>
+			<name>원본DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>[본관] 정기간행물실(524호)</value>
+		</item>
+	</recode>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>KDMT12023000005018</value>
+		</item>
+		<item>
+			<name>논문명</name>
+			<value>&lt;홍길동전&gt; 연구 : 이본 및 주제의식을 중심으로 /</value>
+		</item>
+		<item>
+			<name>지도교수</name>
+			<value>강문종</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>박기환</value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>제주대학교 대학원</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>&lt;홍길동전&gt; 연구 : 이본 및 주제의식을 중심으로 / 홍길동전 이본계열 사회소설 주제의식
+				저항과비판의약화</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>전공</name>
+			<value></value>
+		</item>
+		<item>
+			<name>DDC</name>
+			<value>411</value>
+		</item>
+		<item>
+			<name>청구기호</name>
+			<value>TM 411 -22-614</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value></value>
+		</item>
+		<item>
+			<name>학위년도</name>
+			<value>2022</value>
+		</item>
+		<item>
+			<name>별치기호</name>
+			<value>TM</value>
+		</item>
+		<item>
+			<name>원본DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>음성지원유무</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>[본관] 서고(열람신청 후 1층 대출대)</value>
+		</item>
+	</recode>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>KINX2022131473</value>
+		</item>
+		<item>
+			<name>기사명</name>
+			<value>고전소설 이본 간의 시간성·지역성과 국어교육적 활용 방안 : &lt;홍길동전&gt;을 중심으로 =
+				Temporal and regional characteristics in two different versions of
+				classic novels and its use in Korean education : focusing on
+				&lt;Hong Gil-dong Jeon&gt; / 한국어문교육. 한국어문교육.</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>김유범</value>
+		</item>
+		<item>
+			<name>수록지명</name>
+			<value>한국어문교육. 제39호 (2022. 5)</value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>고려대학교 한국어문교육연구소</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>고전소설 이본 간의 시간성·지역성과 국어교육적 활용 방안 : &lt;홍길동전&gt;을 중심으로 =
+				Temporal and regional characteristics in two different versions of
+				classic novels and its use in Korean education : focusing on
+				&lt;Hong Gil-dong Jeon&gt; / 고전소설 이본 홍길동전 시간성 지역성 역표기 주격조사 ‘가/가'
+				Classic novels Versions Hong Gil-dong Jeon Temporality Locality
+				Reversed notion Nominative case maker ka/kʌ 한국어 국어교육</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value></value>
+		</item>
+		<item>
+			<name>발행년도</name>
+			<value>2022</value>
+		</item>
+		<item>
+			<name>원본DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>[본관] 정기간행물실(524호)</value>
+		</item>
+	</recode>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>KINX2022109260</value>
+		</item>
+		<item>
+			<name>기사명</name>
+			<value>완판본(完板本) 홍길동전 판본 간에 나타난 목판인쇄 특징의 차이점 관찰을 통한 간행 연대의 추정 =
+				Publication dating through observations of differences in woodblock
+				printing characteristics among various versions of Wanpanbon
+				editions of Honggildongjeon (Tale of Hong Gil Dong) / 보존과학회지 =
+				Journal of conservation science. 보존과학회지 = Journal of conservation
+				science.</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>유춘동</value>
+		</item>
+		<item>
+			<name>수록지명</name>
+			<value>보존과학회지 = Journal of conservation science. 제38권 제2호 (2022. 4)
+			</value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>한국문화재보존과학회</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>완판본(完板本) 홍길동전 판본 간에 나타난 목판인쇄 특징의 차이점 관찰을 통한 간행 연대의 추정 =
+				Publication dating through observations of differences in woodblock
+				printing characteristics among various versions of Wanpanbon
+				editions of Honggildongjeon (Tale of Hong Gil Dong) / 완판본홍길동전 이미지비교
+				목판인쇄 인출특성 목판보각 간행연대추정 Honggildongjeon (Tale of Honggildong) of
+				Wanpanbon editions Image comparison Woodblock printing Printing
+				characteristics Replacement woodblock Estimation of printing date
+				박물관학 자연과학일반</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>발행년도</name>
+			<value>2022</value>
+		</item>
+		<item>
+			<name>원본DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>해당자료 없음</value>
+		</item>
+	</recode>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>KINX2022245279</value>
+		</item>
+		<item>
+			<name>기사명</name>
+			<value>새 자료 고소설 『두화룡전』의 성격과 의미 = 『홍길동전』과의 관계를 중심으로 / Peculiarities
+				and meaning of new Korean classical novel Duhwaryongjeon : 語文論集.
+				어문논집.</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>유춘동</value>
+		</item>
+		<item>
+			<name>수록지명</name>
+			<value>語文論集. 제91집 (2022년 9월)</value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>中央語文學會</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>새 자료 고소설 『두화룡전』의 성격과 의미 = 『홍길동전』과의 관계를 중심으로 / Peculiarities
+				and meaning of new Korean classical novel Duhwaryongjeon : 두화룡전 홍길동전
+				조웅전 소대성전 유충렬전 제마무전 변용/개작 고소설의창작과제작방식 Gososeol Duhwaryongjeon
+				Honggildongjeon Chowoongjeon Sodaesungjeon Yoochoongryeoljeon
+				Jaemamujeon Transforming the contents Adaptation Method of producing
+				Korean classical novels History of Korean classical novels 한국어
+				한국어와문학</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value>
+			</value>
+		</item>
+		<item>
+			<name>발행년도</name>
+			<value>2022</value>
+		</item>
+		<item>
+			<name>원본DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>[본관] 정기간행물실(524호)</value>
+		</item>
+	</recode>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>KINX2022109027</value>
+		</item>
+		<item>
+			<name>기사명</name>
+			<value>알렌 (H.N. Allen) 번역 「홍길동전」 연구 = A study of H.N. Allen’s English
+				translation of H.N. Allen’s “Hong Gildong-Jeon” / 語文論集. 어문논집.
+			</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>유광수</value>
+		</item>
+		<item>
+			<name>수록지명</name>
+			<value>語文論集. 제89집 (2022년 3월)</value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>中央語文學會</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>알렌 (H.N. Allen) 번역 「홍길동전」 연구 = A study of H.N. Allen’s English
+				translation of H.N. Allen’s “Hong Gildong-Jeon” / 홍길동전 알렌 H. N.
+				Allen 한국설화집 Korean Tales 번역본 경판본 포용적세계관 성공담 Hong Gildong-Jeon
+				Translation Gyeonpan version Inclusive worldview Success story 한국어
+				한국어와문학</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>발행년도</name>
+			<value>2022</value>
+		</item>
+		<item>
+			<name>원본DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>[본관] 정기간행물실(524호)</value>
+		</item>
+	</recode>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>KDMT12022000046671</value>
+		</item>
+		<item>
+			<name>논문명</name>
+			<value>터키인을 위한 한국문학교육 방안 연구 : 「홍길동전」과 「쾨로울루」의 비교를 중심으로 = A study on
+				the method of Korean literature education for Turkish learner :
+				focusing on comparison of 「Honggildongjeon」 and 「Köroğlu」 /</value>
+		</item>
+		<item>
+			<name>지도교수</name>
+			<value>임경순</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>강하은</value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>한국외국어대학교 대학원</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>터키인을 위한 한국문학교육 방안 연구 : 「홍길동전」과 「쾨로울루」의 비교를 중심으로 = A study on
+				the method of Korean literature education for Turkish learner :
+				focusing on comparison of 「Honggildongjeon」 and 「Köroğlu」 /</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>전공</name>
+			<value></value>
+		</item>
+		<item>
+			<name>DDC</name>
+			<value>411</value>
+		</item>
+		<item>
+			<name>청구기호</name>
+			<value>TM 411 -22-354</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>학위년도</name>
+			<value>2022</value>
+		</item>
+		<item>
+			<name>별치기호</name>
+			<value>TM</value>
+		</item>
+		<item>
+			<name>원본DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>음성지원유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>[본관] 서고(열람신청 후 1층 대출대)</value>
+		</item>
+	</recode>
+	<recode>
+		<item>
+			<name>제어번호</name>
+			<value>KDMT12022000026638</value>
+		</item>
+		<item>
+			<name>논문명</name>
+			<value>한중 소설에 나타난 이주담론 연구 : 「홍길동전」, 「水滸傳」, 「토지」, 「子夜」를 중심으로 /</value>
+		</item>
+		<item>
+			<name>지도교수</name>
+			<value>조광국</value>
+		</item>
+		<item>
+			<name>저자명</name>
+			<value>Qu Hang</value>
+		</item>
+		<item>
+			<name>발행자</name>
+			<value>아주대학교 대학원</value>
+		</item>
+		<item>
+			<name>키워드</name>
+			<value>한중 소설에 나타난 이주담론 연구 : 「홍길동전」, 「水滸傳」, 「토지」, 「子夜」를 중심으로 /
+				봉건체제[封建體制] 제국주의[帝國主義] 이주담론 이주공간 생명사상</value>
+		</item>
+		<item>
+			<name>목차</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>전공</name>
+			<value></value>
+		</item>
+		<item>
+			<name>DDC</name>
+			<value>411</value>
+		</item>
+		<item>
+			<name>청구기호</name>
+			<value>TD 411 -22-265</value>
+		</item>
+		<item>
+			<name>본문언어</name>
+			<value>kor</value>
+		</item>
+		<item>
+			<name>저작권허락</name>
+			<value>N</value>
+		</item>
+		<item>
+			<name>초록유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>학위년도</name>
+			<value>2022</value>
+		</item>
+		<item>
+			<name>별치기호</name>
+			<value>TD</value>
+		</item>
+		<item>
+			<name>원본DB유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>음성지원유무</name>
+			<value>Y</value>
+		</item>
+		<item>
+			<name>자료실</name>
+			<value>[본관] 서고(열람신청 후 1층 대출대)</value>
+		</item>
+	</recode>
+</response>
